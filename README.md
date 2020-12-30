@@ -13,7 +13,7 @@ I'm currently stuck at ```AAPL: [EB|#LOG:EXITBS:START]```
 
 It seems to be related to there not being a bios-option to disable cfg-block and the associated kernel-parameters not working on comet lake CPUs.
 
-There currently is no solution to get macOS to run on a Thinkpad with a CometLake CP
+There currently is no solution to get macOS to run on a Thinkpad with a CometLake CPU
 
 See: https://github.com/bomdurup/x1c7_2020_hacintosh
 
