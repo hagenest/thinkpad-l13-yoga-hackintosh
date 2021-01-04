@@ -11,7 +11,9 @@ Trying to get macOS Big Sur to run on a i7-10510U Thinkpad L13 (Yoga)
 
 I'm currently stuck at ```AAPL: [EB|#LOG:EXITBS:START]```
 
-It seems to be related to there not being a bios-option to disable cfg-block and the associated kernel-parameters not working on comet lake CPUs.
+-It seems to be related to there not being a bios-option to disable cfg-block and the associated kernel-parameters not working on comet lake CPUs.-
+
+**Edit**: OpenCore-Devs suggested the problem lies not with cfg lock. I have no idea what to try next.
 
 There currently is no solution to get macOS to run on a Thinkpad with a CometLake CPU
 
