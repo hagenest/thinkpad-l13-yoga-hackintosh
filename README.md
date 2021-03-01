@@ -7,6 +7,7 @@ Running macOS Big Sur on a i7-10510U Thinkpad L13 (Yoga)
 - Battery Status
 - Touchscreen
 - Webcam
+- Internal speakers and microphone
 
 ## Working
 
