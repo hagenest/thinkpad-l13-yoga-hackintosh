@@ -1,22 +1,19 @@
 # thinkpad-l13-yoga-hackintosh
-Trying to get macOS Big Sur to run on a i7-10510U Thinkpad L13 (Yoga)
-
-## Working
-
-- OpenCore is booting
+Running macOS Big Sur on a i7-10510U Thinkpad L13 (Yoga)
 
 ## Not Working
 
-- anything else
+- iCloud
+- Battery Status
+- Touchscreen
+- Webcam
 
-I'm currently stuck at ```AAPL: [EB|#LOG:EXITBS:START]```
+## Working
 
--It seems to be related to there not being a bios-option to disable cfg-block and the associated kernel-parameters not working on comet lake CPUs.-
+- Everything else, I hope
 
-**Edit**: OpenCore-Devs suggested the problem lies not with cfg lock. I have no idea what to try next.
+I have no idea, why this works now. Thanks go out to Xhichn, who pointed me to daliansky's XiaoXinPro-Project on which this repo is heavily based on.
 
-There currently is no solution to get macOS to run on a Thinkpad with a CometLake CPU
+## tbd
 
-See: https://github.com/bomdurup/x1c7_2020_hacintosh
-
-And: https://www.hackintosh-forum.de/forum/thread/48908-lenovo-thinkpad-e15-ist-der-laptop-hackintosh-tauglich-fazit-nein-ist-es-nicht/?pageNo=2 (german)
+- Writing more Documentation :)
