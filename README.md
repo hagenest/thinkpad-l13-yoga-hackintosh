@@ -1,20 +1,51 @@
-# thinkpad-l13-yoga-hackintosh
+# Thinkpad L13 Yoga Hackintosh
+
 Running macOS Big Sur on a i7-10510U Thinkpad L13 (Yoga)
 
-## Not Working
+## Current Status:
 
-- iCloud
-- Battery Status
-- Touchscreen
-- Webcam
-- Internal speakers and microphone
+✅ GPU-Acceleration
 
-## Working
+✅ Touchpad
 
-- Everything else, I hope
+✅ Trackpoint (Middle-click to scroll does not work)
 
-I have no idea, why this works now. Thanks go out to Xhichn, who pointed me to daliansky's XiaoXinPro-Project on which this repo is heavily based on.
+✅ Keyboard
+
+✅ WiFi (WPA2-Enterprise does not)
+
+✅ Display-Brightness
+
+❌ Touchscreen
+
+❌ Hibernation
+
+❓ HDMI output (Did not try)
+
+✅ Bluetooth
+
+✅ USB-C (Kinda, my USB-C monitor works for video and charging, but it's integrated usb-hub doesn't)
+
+❌ Webcam
+
+❌ Audio (Bluetooth audio works, the integrated speaker and micorophone don't)
+
+❌ iCloud (App Store works, iCloud does not)
+
+❌ Fingerprint Reader
+
+❌ Battery Status
+
+❌ SD-Card reader
+
+❓ Smart card reader
+
+
+It seems like OC 0.6.7 fixed the booting issues on 10th gen Thinkpads.
+
+Thanks go out to Xhichn, who pointed me to daliansky's XiaoXinPro-Project on which this repo is heavily based on.
 
 ## tbd
 
 - Writing more Documentation :)
+- fixing stuff (duh)
