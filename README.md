@@ -2,7 +2,7 @@
 
 Running macOS Big Sur on a i7-10510U Thinkpad L13 (Yoga)
 
-**This repository is now deprecated, just use seven-of-elevens' awesome and really in-depth guide (here)[https://github.com/seven-of-eleven/Lenovo-ThinkPad-L13-Yoga-Hackintosh]**
+**This repository is now deprecated, just use seven-of-elevens' awesome and really in-depth guide [here](https://github.com/seven-of-eleven/Lenovo-ThinkPad-L13-Yoga-Hackintosh)**
 
 ## Current Status:
 
