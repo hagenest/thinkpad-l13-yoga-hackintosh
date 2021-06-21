@@ -49,5 +49,5 @@ Thanks go out to Xhichn, who pointed me to daliansky's XiaoXinPro-Project on whi
 
 ## tbd
 
-- Writing more Documentation :)
+- Writing more documentation :)
 - fixing stuff (duh)
